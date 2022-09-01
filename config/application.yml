@@ -1,0 +1,4 @@
+default: &default
+  info_email_id: info@credavenue.in
+
+development:
